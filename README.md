@@ -5,7 +5,7 @@
 ➡️Teknik Informatika - UNIVERSITAS PELITA BANGSA🌈
 ______________________________________________
 
-## web 3
+## WEB4
 ---
 # <p align="center">Praktikum 4: PHP Modular</p>
 
